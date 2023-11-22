@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ALevelChess", "ALevelChess\ALevelChess.vbproj", "{06E6F1DA-D6EC-4B68-8E40-67E687C9E9C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06E6F1DA-D6EC-4B68-8E40-67E687C9E9C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06E6F1DA-D6EC-4B68-8E40-67E687C9E9C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06E6F1DA-D6EC-4B68-8E40-67E687C9E9C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06E6F1DA-D6EC-4B68-8E40-67E687C9E9C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C4C2ECF-E71F-4522-93C6-740D17BE3D73}
+	EndGlobalSection
+EndGlobal
